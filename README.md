@@ -1,7 +1,7 @@
 # CloudMints - Cloud Infrastructure Platform
 
 <div align="center">
-  <img src="logo-3d.png" width="150"/>
+  <img src="logo_3D.png" width="150"/>
 
   **Enterprise Cloud Infrastructure Made Simple**
 
