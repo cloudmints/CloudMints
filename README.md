@@ -141,8 +141,6 @@ CloudMints operates data centers in strategic locations worldwide:
 - **Database:** From $15/month
 - **Data Transfer:** First 1TB free
 
-[View Full Pricing](https://cloudmints.in/pricing)
-
 ## 🔐 Security & Compliance
 
 - **Certifications:** SOC 2, ISO 27001, GDPR compliant
@@ -156,15 +154,6 @@ CloudMints operates data centers in strategic locations worldwide:
 
 - **Email:** support@cloudmints.in
 - **Phone:** +1-800-CLOUDMINTS
-- **Live Chat:** Available on dashboard
-- **Documentation:** [docs.cloudmints.in](https://docs.cloudmints.in)
-
-### Community
-
-- **Discord:** [Join our community](https://discord.gg/cloudmints)
-- **Forum:** [community.cloudmints.in](https://community.cloudmints.in)
-- **Twitter:** [@CloudMints](https://twitter.com/cloudmints)
-- **Blog:** [blog.cloudmints.in](https://blog.cloudmints.in)
 
 ## 📄 License
 
