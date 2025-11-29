@@ -9,12 +9,5 @@ AWS_S3_BUCKET=cloudmints-storage-prod
 
 # Admin Portal Credentials
 ADMIN_EMAIL=admin@cloudmints.in
+ADMIN_USERNAME=admin
 ADMIN_PASSWORD=CloudM1nts@Admin2024!
-ADMIN_API_KEY=cm_admin_api_key_prod_2024_secret
-
-# Database Connection (Production)
-DB_HOST=cloudmints-prod-db.c9akciq32.us-east-1.rds.amazonaws.com
-DB_PORT=3306
-DB_USER=cloudmints_admin
-DB_PASSWORD=DbP@ssw0rd2024!Secure
-DB_NAME=cloudmints_production
