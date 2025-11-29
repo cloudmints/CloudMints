@@ -1,0 +1,37 @@
+{
+  "name": "@cloudmints/sdk",
+  "version": "2.1.0",
+  "description": "Official CloudMints SDK for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "docs": "jsdoc -c jsdoc.json",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "cloudmints",
+    "cloud",
+    "infrastructure",
+    "aws",
+    "compute",
+    "storage"
+  ],
+  "author": "CloudMints Team <dev@cloudmints.in>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudmints/sdk-nodejs"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudmints/sdk-nodejs/issues"
+  },
+  "homepage": "https://docs.cloudmints.in",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "webpack": "^5.89.0"
+  }
+}
